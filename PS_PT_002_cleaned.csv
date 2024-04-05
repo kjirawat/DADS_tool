@@ -1,0 +1,97 @@
+﻿Payment Type,Sub Type,Year-Month,Volume (x1000)
+Cheque,Inhouse,2023-Jan,2575
+Cheque,Inhouse,2023-Feb,2480
+Cheque,Inhouse,2023-Mar,2757
+Cheque,Inhouse,2023-Apr,2253
+Cheque,Inhouse,2023-May,2664
+Cheque,Inhouse,2023-Jun,2509
+Cheque,Inhouse,2023-Jul,2523
+Cheque,Inhouse,2023-Aug,2670
+Cheque,Inhouse,2023-Sep,2796
+Cheque,Inhouse,2023-Oct,2335
+Cheque,Inhouse,2023-Nov,2063
+Cheque,Inhouse,2023-Dec,2385
+Cheque,Interbank,2023-Jan,3058
+Cheque,Interbank,2023-Feb,2874
+Cheque,Interbank,2023-Mar,3257
+Cheque,Interbank,2023-Apr,2526
+Cheque,Interbank,2023-May,3307
+Cheque,Interbank,2023-Jun,3055
+Cheque,Interbank,2023-Jul,2937
+Cheque,Interbank,2023-Aug,3049
+Cheque,Interbank,2023-Sep,2920
+Cheque,Interbank,2023-Oct,3015
+Cheque,Interbank,2023-Nov,2873
+Cheque,Interbank,2023-Dec,2663
+e-Payments,BAHTNET - 3rd Party,2023-Jan,408
+e-Payments,BAHTNET - 3rd Party,2023-Feb,411
+e-Payments,BAHTNET - 3rd Party,2023-Mar,458
+e-Payments,BAHTNET - 3rd Party,2023-Apr,366
+e-Payments,BAHTNET - 3rd Party,2023-May,422
+e-Payments,BAHTNET - 3rd Party,2023-Jun,435
+e-Payments,BAHTNET - 3rd Party,2023-Jul,409
+e-Payments,BAHTNET - 3rd Party,2023-Aug,435
+e-Payments,BAHTNET - 3rd Party,2023-Sep,446
+e-Payments,BAHTNET - 3rd Party,2023-Oct,429
+e-Payments,BAHTNET - 3rd Party,2023-Nov,434
+e-Payments,BAHTNET - 3rd Party,2023-Dec,408
+e-Payments,Bulk Payment,2023-Jan,63561
+e-Payments,Bulk Payment,2023-Feb,61642
+e-Payments,Bulk Payment,2023-Mar,64078
+e-Payments,Bulk Payment,2023-Apr,60368
+e-Payments,Bulk Payment,2023-May,68366
+e-Payments,Bulk Payment,2023-Jun,61521
+e-Payments,Bulk Payment,2023-Jul,57877
+e-Payments,Bulk Payment,2023-Aug,61645
+e-Payments,Bulk Payment,2023-Sep,70666
+e-Payments,Bulk Payment,2023-Oct,61610
+e-Payments,Bulk Payment,2023-Nov,63573
+e-Payments,Bulk Payment,2023-Dec,65997
+e-Payments,Interbank Funds Transfer,2023-Jan,1355793
+e-Payments,Interbank Funds Transfer,2023-Feb,1316853
+e-Payments,Interbank Funds Transfer,2023-Mar,1443071
+e-Payments,Interbank Funds Transfer,2023-Apr,1348138
+e-Payments,Interbank Funds Transfer,2023-May,1445927
+e-Payments,Interbank Funds Transfer,2023-Jun,1485159
+e-Payments,Interbank Funds Transfer,2023-Jul,1570260
+e-Payments,Interbank Funds Transfer,2023-Aug,1610791
+e-Payments,Interbank Funds Transfer,2023-Sep,1625856
+e-Payments,Interbank Funds Transfer,2023-Oct,1679743
+e-Payments,Interbank Funds Transfer,2023-Nov,1688413
+e-Payments,Interbank Funds Transfer,2023-Dec,1807151
+e-Payments,Inhouse Funds Transfer,2023-Jan,843684
+e-Payments,Inhouse Funds Transfer,2023-Feb,816250
+e-Payments,Inhouse Funds Transfer,2023-Mar,896820
+e-Payments,Inhouse Funds Transfer,2023-Apr,839273
+e-Payments,Inhouse Funds Transfer,2023-May,894754
+e-Payments,Inhouse Funds Transfer,2023-Jun,899983
+e-Payments,Inhouse Funds Transfer,2023-Jul,950801
+e-Payments,Inhouse Funds Transfer,2023-Aug,955966
+e-Payments,Inhouse Funds Transfer,2023-Sep,956943
+e-Payments,Inhouse Funds Transfer,2023-Oct,978718
+e-Payments,Inhouse Funds Transfer,2023-Nov,979900
+e-Payments,Inhouse Funds Transfer,2023-Dec,1037449
+e-Payments,Payment cards,2023-Jan,96351
+e-Payments,Payment cards,2023-Feb,88609
+e-Payments,Payment cards,2023-Mar,99673
+e-Payments,Payment cards,2023-Apr,94503
+e-Payments,Payment cards,2023-May,99189
+e-Payments,Payment cards,2023-Jun,95816
+e-Payments,Payment cards,2023-Jul,101861
+e-Payments,Payment cards,2023-Aug,101483
+e-Payments,Payment cards,2023-Sep,97447
+e-Payments,Payment cards,2023-Oct,102650
+e-Payments,Payment cards,2023-Nov,101495
+e-Payments,Payment cards,2023-Dec,107212
+e-Payments,e-Money,2023-Jan,323995
+e-Payments,e-Money,2023-Feb,305437
+e-Payments,e-Money,2023-Mar,340164
+e-Payments,e-Money,2023-Apr,317396
+e-Payments,e-Money,2023-May,339866
+e-Payments,e-Money,2023-Jun,340338
+e-Payments,e-Money,2023-Jul,355612
+e-Payments,e-Money,2023-Aug,364499
+e-Payments,e-Money,2023-Sep,360690
+e-Payments,e-Money,2023-Oct,373539
+e-Payments,e-Money,2023-Nov,377475
+e-Payments,e-Money,2023-Dec,402939
